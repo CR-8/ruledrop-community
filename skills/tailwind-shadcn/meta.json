@@ -1,0 +1,6 @@
+{
+  "name": "tailwind-shadcn",
+  "description": "Build consistent, accessible UIs with Tailwind CSS and shadcn/ui. Use when composing UI components, building design systems, handling dark mode, or styling React applications with utility-first CSS.",
+  "tags": ["tailwind", "shadcn", "ui", "react", "design-system", "accessibility"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

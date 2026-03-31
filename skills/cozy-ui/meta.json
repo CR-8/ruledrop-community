@@ -2,5 +2,5 @@
   "name": "cozy-ui",
   "description": "Design warm, soft, inviting interfaces with a cozy, hygge-inspired aesthetic. Use when building personal apps, journaling tools, reading experiences, wellness products, home dashboards, or any interface that should feel comfortable, unhurried, and human.",
   "tags": ["cozy", "warm", "hygge", "soft", "aesthetic", "ui", "design", "wellness"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
 }

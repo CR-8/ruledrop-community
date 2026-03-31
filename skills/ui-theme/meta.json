@@ -2,5 +2,5 @@
   "name": "ui-theme",
   "description": "Apply a cohesive visual theme — colors, typography, and spacing — to any artifact: HTML pages, slide decks, dashboards, reports, or UI components. Use when styling or restyling an existing artifact, or when building something new that needs a strong visual identity.",
   "tags": ["design", "theme", "css", "typography", "color", "styling"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
 }

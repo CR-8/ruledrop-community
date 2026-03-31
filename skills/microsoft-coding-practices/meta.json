@@ -2,5 +2,5 @@
   "name": "microsoft-coding-practices",
   "description": "Apply Microsoft's engineering standards for TypeScript, C#/.NET, API design, and accessibility. Use when writing TypeScript or C# that should follow Microsoft's conventions, building applications with Microsoft's engineering principles, or applying Microsoft's approach to accessibility and open-source contribution.",
   "tags": ["microsoft", "typescript", "csharp", "dotnet", "style-guide", "accessibility", "engineering"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
 }

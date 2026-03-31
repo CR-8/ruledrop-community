@@ -1,0 +1,6 @@
+{
+  "name": "react-styled-components",
+  "description": "Style React applications with styled-components. Use when building component-scoped CSS-in-JS, implementing dynamic theming, or migrating from global CSS to styled-components.",
+  "tags": ["react", "styled-components", "css-in-js", "theming", "typescript"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

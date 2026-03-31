@@ -2,5 +2,5 @@
   "name": "frontend-design",
   "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use when building web components, pages, dashboards, landing pages, React/Vue/HTML layouts, or styling any web UI. Generates creative, polished code that avoids generic AI aesthetics.",
   "tags": ["frontend", "design", "ui", "css", "react", "html"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
 }

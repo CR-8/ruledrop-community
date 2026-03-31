@@ -1,0 +1,6 @@
+{
+  "name": "react-redux-toolkit",
+  "description": "Manage complex application state with Redux Toolkit. Use when building large React apps with shared async state, complex update logic, or teams that need predictable, debuggable state flows.",
+  "tags": ["redux", "redux-toolkit", "react", "typescript", "state", "async"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

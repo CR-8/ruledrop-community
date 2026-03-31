@@ -1,0 +1,6 @@
+{
+  "name": "react-chakra-ui",
+  "description": "Build accessible, themeable React UIs with Chakra UI. Use when composing layouts, implementing dark mode, customizing the design system, or building forms and interactive components with Chakra.",
+  "tags": ["react", "chakra-ui", "typescript", "accessibility", "theming", "design-system"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

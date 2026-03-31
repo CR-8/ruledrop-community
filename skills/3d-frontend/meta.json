@@ -2,5 +2,5 @@
   "name": "3d-frontend",
   "description": "Build immersive, performant 3D web experiences using Three.js, WebGL, React Three Fiber, and post-processing effects. Use when creating 3D scenes, interactive product viewers, particle systems, shader effects, or any web experience that goes beyond flat 2D.",
   "tags": ["3d", "threejs", "webgl", "react-three-fiber", "shaders", "particles", "immersive"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
 }

@@ -1,0 +1,6 @@
+{
+  "name": "nextjs-seo",
+  "description": "Implement technical SEO in Next.js applications. Use when adding metadata, Open Graph tags, structured data, sitemaps, robots.txt, or optimizing Core Web Vitals for search ranking.",
+  "tags": ["nextjs", "seo", "metadata", "performance", "open-graph", "structured-data"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

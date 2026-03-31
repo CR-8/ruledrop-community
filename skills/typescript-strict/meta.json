@@ -1,0 +1,6 @@
+{
+  "name": "typescript-strict",
+  "description": "Write strict, idiomatic TypeScript. Use when typing React components, designing interfaces, handling unknown data, narrowing types, or eliminating 'any' from a codebase.",
+  "tags": ["typescript", "types", "strict", "generics", "patterns"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

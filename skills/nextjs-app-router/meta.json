@@ -1,0 +1,6 @@
+{
+  "name": "nextjs-app-router",
+  "description": "Build production-grade Next.js applications using the App Router. Use when creating pages, layouts, server components, server actions, data fetching patterns, or optimizing a Next.js 13+ project.",
+  "tags": ["nextjs", "react", "typescript", "app-router", "ssr", "server-components"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "react-state-management",
+  "description": "Choose and implement the right state management approach for React apps. Use when deciding between local state, context, Zustand, or Redux Toolkit, or when refactoring tangled state logic.",
+  "tags": ["react", "state", "zustand", "redux", "typescript", "hooks"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}
