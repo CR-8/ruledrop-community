@@ -1,0 +1,6 @@
+{
+  "name": "context-provider",
+  "description": "Inject official documentation URLs for every major framework and library into your AI agent's context. Before implementing anything, the agent checks the official docs first — eliminating hallucinated APIs and outdated patterns. A free local alternative to Context7.",
+  "tags": ["docs", "context", "recommended", "frameworks", "references", "dx"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+}

@@ -149,6 +149,12 @@
       "description": "Build accessible, themeable React UIs with Chakra UI. Use when composing layouts, implementing dark mode, customizing the design system, or building forms and interactive components with Chakra.",
       "tags": ["react", "chakra-ui", "typescript", "accessibility", "theming", "design-system"],
       "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
+    },
+    {
+      "name": "context-provider",
+      "description": "Inject official documentation URLs for every major framework and library into your AI agent's context. Before implementing anything, the agent checks the official docs first — eliminating hallucinated APIs and outdated patterns. A free local alternative to Context7.",
+      "tags": ["docs", "context", "recommended", "frameworks", "references", "dx"],
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode", "zed", "trae", "void", "cline", "geminiCli", "codex", "warp", "continue", "aider", "opencode"]
     }
   ],
   "sets": [
@@ -211,6 +217,26 @@
       "name": "react-ecosystem",
       "description": "The full React toolkit — component patterns, strict TypeScript, state management, styled-components, Chakra UI, and Redux Toolkit. Pick what fits your stack.",
       "skills": ["frontend-patterns", "typescript-strict", "react-state-management", "react-styled-components", "react-chakra-ui", "react-redux-toolkit"]
+    },
+    {
+      "name": "ai-ready",
+      "description": "Make your AI agent smarter from day one — official docs context provider, code review standards, and security practices. The recommended baseline for any project.",
+      "skills": ["context-provider", "code-review", "security-practices"]
+    },
+    {
+      "name": "typescript-react",
+      "description": "Strict TypeScript with React best practices — type-safe components, state management patterns, and frontend architecture. For teams that take types seriously.",
+      "skills": ["typescript-strict", "frontend-patterns", "react-state-management"]
+    },
+    {
+      "name": "design-system",
+      "description": "Build a complete design system — Tailwind + shadcn/ui components, Chakra UI theming, styled-components, and brand-guide-driven token generation.",
+      "skills": ["tailwind-shadcn", "react-chakra-ui", "react-styled-components", "theme-from-guide"]
+    },
+    {
+      "name": "production-ready",
+      "description": "Everything needed to ship production software — context-aware AI, code review, security, Git workflow, API design, and SEO. The complete quality baseline.",
+      "skills": ["context-provider", "code-review", "security-practices", "git-workflow", "api-design", "nextjs-seo"]
     }
   ]
 }
