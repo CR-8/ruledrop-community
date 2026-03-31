@@ -2,5 +2,5 @@
   "name": "meta-coding-practices",
   "description": "Apply Meta's engineering standards for code quality, performance, and developer experience. Use when writing React/React Native applications, following Meta's engineering culture, or applying Meta's approach to scale, reliability, and developer tooling.",
   "tags": ["meta", "facebook", "react", "react-native", "style-guide", "engineering", "standards"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
 }

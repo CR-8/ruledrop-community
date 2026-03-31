@@ -2,5 +2,5 @@
   "name": "premium-ui",
   "description": "Design luxury, high-end interfaces that communicate quality, exclusivity, and craftsmanship. Use when building premium product pages, luxury brand sites, high-ticket SaaS, fashion/jewelry e-commerce, or any interface where the design itself must signal premium value.",
   "tags": ["luxury", "premium", "high-end", "elegant", "ui", "design", "brand"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
 }

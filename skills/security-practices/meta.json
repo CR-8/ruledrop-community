@@ -2,5 +2,5 @@
   "name": "security-practices",
   "description": "Apply security best practices across web applications, APIs, and infrastructure. Use when building authentication systems, handling user data, designing APIs, reviewing code for vulnerabilities, configuring servers, or any time security is a concern.",
   "tags": ["security", "owasp", "auth", "xss", "sql-injection", "csrf", "https", "best-practices"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
 }

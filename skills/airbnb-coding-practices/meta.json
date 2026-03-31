@@ -2,5 +2,5 @@
   "name": "airbnb-coding-practices",
   "description": "Apply Airbnb's engineering standards for JavaScript, React, and CSS. Use when writing JavaScript or TypeScript that should follow Airbnb's widely-adopted style guide, building React applications to Airbnb's component standards, or setting up ESLint with Airbnb's config.",
   "tags": ["airbnb", "javascript", "react", "eslint", "style-guide", "engineering", "standards"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
 }

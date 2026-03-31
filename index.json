@@ -4,103 +4,103 @@
       "name": "frontend-design",
       "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use when building web components, pages, dashboards, landing pages, React/Vue/HTML layouts, or styling any web UI. Generates creative, polished code that avoids generic AI aesthetics.",
       "tags": ["frontend", "design", "ui", "css", "react", "html"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "frontend-patterns",
       "description": "React and TypeScript component patterns for maintainable, performant frontends. Use when building React components, managing state, fetching data, optimizing performance, handling forms, or structuring a frontend codebase.",
       "tags": ["react", "typescript", "patterns", "hooks", "performance", "accessibility"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "ui-theme",
       "description": "Apply a cohesive visual theme — colors, typography, and spacing — to any artifact: HTML pages, slide decks, dashboards, reports, or UI components. Use when styling or restyling an existing artifact, or when building something new that needs a strong visual identity.",
       "tags": ["design", "theme", "css", "typography", "color", "styling"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "code-review",
       "description": "Perform structured, actionable code reviews covering correctness, security, performance, maintainability, and test coverage. Use when asked to review code, audit a PR, check for bugs, assess code quality, or give feedback on an implementation.",
       "tags": ["code-review", "quality", "security", "performance", "best-practices"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "api-design",
       "description": "Design clean, consistent REST APIs. Use when designing new endpoints, reviewing an existing API, writing OpenAPI specs, or deciding on URL structure, request/response shapes, status codes, and error handling conventions.",
       "tags": ["api", "rest", "backend", "openapi", "http", "design"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "git-workflow",
       "description": "Apply consistent Git conventions for commits, branches, and pull requests. Use when writing commit messages, naming branches, structuring PRs, setting up a team Git workflow, or following Conventional Commits and semantic versioning.",
       "tags": ["git", "workflow", "commits", "branching", "pull-requests", "versioning"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "3d-frontend",
       "description": "Build immersive, performant 3D web experiences using Three.js, WebGL, React Three Fiber, and post-processing effects. Use when creating 3D scenes, interactive product viewers, particle systems, shader effects, or any web experience that goes beyond flat 2D.",
       "tags": ["3d", "threejs", "webgl", "react-three-fiber", "shaders", "particles", "immersive"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "vector-design",
       "description": "Create expressive vector graphics, animated SVGs, and motion-driven UI. Use when building icon systems, illustrated UIs, animated logos, generative backgrounds, data visualizations, or any interface where vector art and motion graphics play a central role.",
       "tags": ["svg", "vector", "animation", "gsap", "motion", "icons", "illustration"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "immersive-storytelling",
       "description": "Build scroll-driven, narrative web experiences where the page tells a story. Use when creating editorial websites, interactive longforms, product launch pages, portfolio showcases, or any site where the user's journey through the page is the experience.",
       "tags": ["storytelling", "scroll", "gsap", "parallax", "narrative", "editorial", "immersive"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "cozy-ui",
       "description": "Design warm, soft, inviting interfaces with a cozy, hygge-inspired aesthetic. Use when building personal apps, journaling tools, reading experiences, wellness products, home dashboards, or any interface that should feel comfortable, unhurried, and human.",
       "tags": ["cozy", "warm", "hygge", "soft", "aesthetic", "ui", "design", "wellness"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "premium-ui",
       "description": "Design luxury, high-end interfaces that communicate quality, exclusivity, and craftsmanship. Use when building premium product pages, luxury brand sites, high-ticket SaaS, fashion/jewelry e-commerce, or any interface where the design itself must signal premium value.",
       "tags": ["luxury", "premium", "high-end", "elegant", "ui", "design", "brand"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "theme-from-guide",
       "description": "Extract a complete, implementable UI theme from a brand guide, style document, design spec, mood board, or any reference material. Use when given brand guidelines, a Figma spec, a competitor site to reference, or any document that defines a visual identity to implement.",
       "tags": ["theme", "brand", "design-system", "tokens", "css", "brand-guide", "style"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "security-practices",
       "description": "Apply security best practices across web applications, APIs, and infrastructure. Use when building authentication systems, handling user data, designing APIs, reviewing code for vulnerabilities, configuring servers, or any time security is a concern.",
       "tags": ["security", "owasp", "auth", "xss", "sql-injection", "csrf", "https", "best-practices"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "google-coding-practices",
       "description": "Apply Google's engineering standards for code style, design, and review. Use when writing code that should follow Google's style guides, conducting code reviews using Google's methodology, or structuring a codebase to Google's engineering standards.",
       "tags": ["google", "style-guide", "code-review", "best-practices", "engineering", "standards"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "meta-coding-practices",
       "description": "Apply Meta's engineering standards for code quality, performance, and developer experience. Use when writing React/React Native applications, following Meta's engineering culture, or applying Meta's approach to scale, reliability, and developer tooling.",
       "tags": ["meta", "facebook", "react", "react-native", "style-guide", "engineering", "standards"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "airbnb-coding-practices",
       "description": "Apply Airbnb's engineering standards for JavaScript, React, and CSS. Use when writing JavaScript or TypeScript that should follow Airbnb's widely-adopted style guide, building React applications to Airbnb's component standards, or setting up ESLint with Airbnb's config.",
       "tags": ["airbnb", "javascript", "react", "eslint", "style-guide", "engineering", "standards"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     },
     {
       "name": "microsoft-coding-practices",
       "description": "Apply Microsoft's engineering standards for TypeScript, C#/.NET, API design, and accessibility. Use when writing TypeScript or C# that should follow Microsoft's conventions, building applications with Microsoft's engineering principles, or applying Microsoft's approach to accessibility and open-source contribution.",
       "tags": ["microsoft", "typescript", "csharp", "dotnet", "style-guide", "accessibility", "engineering"],
-      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+      "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
     }
   ],
   "sets": [

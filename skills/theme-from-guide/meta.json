@@ -2,5 +2,5 @@
   "name": "theme-from-guide",
   "description": "Extract a complete, implementable UI theme from a brand guide, style document, design spec, mood board, or any reference material. Use when given brand guidelines, a Figma spec, a competitor site to reference, or any document that defines a visual identity to implement.",
   "tags": ["theme", "brand", "design-system", "tokens", "css", "brand-guide", "style"],
-  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot", "vscode"]
 }
