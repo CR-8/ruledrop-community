@@ -1,0 +1,6 @@
+{
+  "name": "api-design",
+  "description": "Design clean, consistent REST APIs. Use when designing new endpoints, reviewing an existing API, writing OpenAPI specs, or deciding on URL structure, request/response shapes, status codes, and error handling conventions.",
+  "tags": ["api", "rest", "backend", "openapi", "http", "design"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

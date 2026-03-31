@@ -1,0 +1,5 @@
+{
+  "name": "secure-backend",
+  "description": "Build secure, well-designed backend systems — OWASP security practices, clean REST API design, and structured code review.",
+  "skills": ["security-practices", "api-design", "code-review"]
+}

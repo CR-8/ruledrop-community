@@ -1,0 +1,5 @@
+{
+  "name": "google-stack",
+  "description": "Code like a Googler — Google's style guides and engineering standards, structured code review methodology, and Git workflow conventions.",
+  "skills": ["google-coding-practices", "code-review", "git-workflow"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "code-review",
+  "description": "Perform structured, actionable code reviews covering correctness, security, performance, maintainability, and test coverage. Use when asked to review code, audit a PR, check for bugs, assess code quality, or give feedback on an implementation.",
+  "tags": ["code-review", "quality", "security", "performance", "best-practices"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "description": "Everything you need to build polished, production-ready frontend interfaces — distinctive design, proven React patterns, and visual theming.",
+  "skills": [
+    "frontend-design",
+    "frontend-patterns",
+    "ui-theme"
+  ]
+}

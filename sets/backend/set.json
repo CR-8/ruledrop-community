@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "description": "Core skills for building clean, well-structured backend systems — REST API design, code quality, and Git workflow conventions.",
+  "skills": [
+    "api-design",
+    "code-review",
+    "git-workflow"
+  ]
+}

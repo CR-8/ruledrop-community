@@ -1,0 +1,5 @@
+{
+  "name": "meta-stack",
+  "description": "Code like a Meta engineer — Meta's React/React Native standards, move-fast engineering culture, code review practices, and Git workflow.",
+  "skills": ["meta-coding-practices", "code-review", "git-workflow"]
+}

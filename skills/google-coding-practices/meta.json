@@ -1,0 +1,6 @@
+{
+  "name": "google-coding-practices",
+  "description": "Apply Google's engineering standards for code style, design, and review. Use when writing code that should follow Google's style guides, conducting code reviews using Google's methodology, or structuring a codebase to Google's engineering standards.",
+  "tags": ["google", "style-guide", "code-review", "best-practices", "engineering", "standards"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

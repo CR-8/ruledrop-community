@@ -1,0 +1,6 @@
+{
+  "name": "git-workflow",
+  "description": "Apply consistent Git conventions for commits, branches, and pull requests. Use when writing commit messages, naming branches, structuring PRs, setting up a team Git workflow, or following Conventional Commits and semantic versioning.",
+  "tags": ["git", "workflow", "commits", "branching", "pull-requests", "versioning"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "frontend-patterns",
+  "description": "React and TypeScript component patterns for maintainable, performant frontends. Use when building React components, managing state, fetching data, optimizing performance, handling forms, or structuring a frontend codebase.",
+  "tags": ["react", "typescript", "patterns", "hooks", "performance", "accessibility"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

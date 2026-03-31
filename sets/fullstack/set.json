@@ -1,0 +1,12 @@
+{
+  "name": "fullstack",
+  "description": "The complete ruledrop starter pack — frontend design, React patterns, theming, API design, code review, and Git workflow. Install this to hit the ground running on any fullstack project.",
+  "skills": [
+    "frontend-design",
+    "frontend-patterns",
+    "ui-theme",
+    "api-design",
+    "code-review",
+    "git-workflow"
+  ]
+}

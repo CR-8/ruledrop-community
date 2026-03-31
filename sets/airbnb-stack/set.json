@@ -1,0 +1,5 @@
+{
+  "name": "airbnb-stack",
+  "description": "Code like an Airbnb engineer — Airbnb's JavaScript/React style guide (the world's most popular), React component patterns, and structured code review.",
+  "skills": ["airbnb-coding-practices", "frontend-patterns", "code-review"]
+}

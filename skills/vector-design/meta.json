@@ -1,0 +1,6 @@
+{
+  "name": "vector-design",
+  "description": "Create expressive vector graphics, animated SVGs, and motion-driven UI. Use when building icon systems, illustrated UIs, animated logos, generative backgrounds, data visualizations, or any interface where vector art and motion graphics play a central role.",
+  "tags": ["svg", "vector", "animation", "gsap", "motion", "icons", "illustration"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

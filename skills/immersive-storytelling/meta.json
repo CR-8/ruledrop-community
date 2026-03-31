@@ -1,0 +1,6 @@
+{
+  "name": "immersive-storytelling",
+  "description": "Build scroll-driven, narrative web experiences where the page tells a story. Use when creating editorial websites, interactive longforms, product launch pages, portfolio showcases, or any site where the user's journey through the page is the experience.",
+  "tags": ["storytelling", "scroll", "gsap", "parallax", "narrative", "editorial", "immersive"],
+  "compatibleIDEs": ["cursor", "kiro", "windsurf", "claudeCode", "githubCopilot"]
+}

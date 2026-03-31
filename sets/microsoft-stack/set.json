@@ -1,0 +1,5 @@
+{
+  "name": "microsoft-stack",
+  "description": "Code like a Microsoft engineer — TypeScript and C#/.NET standards, Microsoft's REST API guidelines, accessibility-first development, and Git workflow.",
+  "skills": ["microsoft-coding-practices", "code-review", "git-workflow"]
+}
